@@ -1,7 +1,7 @@
 #!bin/bash
 EXEC='cub3D'
-PATH1="maps_test/invalid/"
-PATH2="maps_test/valid/"
+PATH1="invalid/"
+PATH2="valid/"
 
 GREEN="\033[0;32m"
 BLUE="\033[0;34m"
