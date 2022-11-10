@@ -4,7 +4,7 @@ SO ./textures_xpm/naturalbricks_hd_verydark.xpm
 EA ./textures_xpm/naturalbricks_hd_verydark.xpm
 WE ./textures_xpm/naturalbricks_hd_verydark.xpm
 
-C 155,100,  160 I
+C 155,100,160
 F 111,111,111
 111111
 101111

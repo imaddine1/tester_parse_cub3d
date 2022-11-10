@@ -2,12 +2,12 @@
 NO ./textures_xpm/naturalbricks_hd_verydark.xpm
 SO ./textures_xpm/naturalbricks_hd_verydark.xpm
 EA ./textures_xpm/naturalbricks_hd_verydark.xpm
-WE ./textures_xpm/naturalbricks_hd_verydark.xpm ok
+WE ./textures_xpm/naturalbricks_hd_verydark.xpm
 
 C 155,100,160
 F 111,111,111
 
- 1111111111111111
+  111111111111111
 10000000000000001
 10100000100000101
 10000000000000001
