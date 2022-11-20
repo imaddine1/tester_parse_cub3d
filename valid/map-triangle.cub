@@ -1,7 +1,7 @@
-NO cub3d-tester/textures/wall.xpm
-SO cub3d-tester/textures/bricks.xpm
-WE cub3d-tester/textures/gold.xpm
-EA cub3d-tester/textures/wood.xpm
+SO ./textures_xpm/naturalbricks_hd_middle.xpm
+EA ./textures_xpm/naturalbricks_hd_middle.xpm
+WE ./textures_xpm/naturalbricks_hd_middle.xpm
+NO ./textures_xpm/naturalbricks_hd_verydark.xpm
 F 220,111,156
 C 225,111,0
 
